@@ -1,0 +1,2 @@
+model,split,accuracy,precision,recall,f1,roc_auc
+RandomForest,test,0.7818181818181819,0.0,0.0,0.0,0.6511627906976745

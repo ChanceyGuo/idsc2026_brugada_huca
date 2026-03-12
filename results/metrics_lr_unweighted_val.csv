@@ -1,0 +1,2 @@
+model,split,accuracy,precision,recall,f1,roc_auc
+LogisticRegression_unweighted,val,0.8148148148148148,0.6,0.2727272727272727,0.375,0.6469344608879493
